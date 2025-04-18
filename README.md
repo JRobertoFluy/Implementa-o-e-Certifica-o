@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="[https://companieslogo.com/img/orig/SMTX_BIG.D-5e63e8cb.png?t=1648752611](https://companieslogo.com/img/orig/STIX_BIG-016ae33e.png?t=1720244494&download=true)" alt="Semantix Logo" width="220"/>
-</p>
 
 <h1 align="center">📌 Projeto de Certificação ISO 27001 & ISO 27701</h1>
 
