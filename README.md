@@ -19,55 +19,65 @@ Conduzir a **implementação, certificação e sustentação** das normas **ISO 
 
 ## 🧩 Escopo e Estrutura do Projeto
 
+---
+
+## 🔐 Certificação ISO 27001 – Segurança da Informação
+
+### 🔹 Objetivos
+
+- ✅ Implementar o SGSI (Sistema de Gestão de Segurança da Informação)
+- ✅ Conformidade com ISO 31000, NIST CSF e boas práticas
+- ✅ Definir papéis, políticas e responsabilidades claras
+
+### 🔹 Principais Atividades
+
+- ✅ Estruturação da Política de Segurança da Informação (PSI)
+- ✅ Implementação dos controles do Anexo A (ISO 27001)
+- ✅ Mapeamento e gestão de riscos com base na ISO 31000
+- ✅ Desenvolvimento de dashboards (KPIs) com Power BI
+- ✅ Preparação e condução da auditoria de certificação
+
+### 🔹 Impacto e Resultados
+
+- 📌 Certificação obtida em **apenas 6 meses**
+- 📌 Redução de **70% nas não conformidades**
+- 📌 Elevação da cultura de segurança e engajamento interno
 
 ---
 
-## 🔐 ISO 27001 - Segurança da Informação
+## 🛡️ Certificação ISO 27701 – Privacidade de Dados
 
-### 🎯 Entregas Estratégicas
+### 🔹 Objetivos
 
-- SGSI implementado com base na ISO 27001
-- Conformidade com frameworks ISO 31000 e NIST CSF
-- Controles estabelecidos conforme Anexo A
-- Política de Segurança da Informação estruturada
-- Auditoria de certificação conduzida com sucesso
+- ✅ Expandir a governança para incluir **privacidade** de dados
+- ✅ Integrar SGPI (Privacidade) ao SGSI já certificado
+- ✅ Criar base sólida para **recertificações conjuntas**
 
-### 📈 Resultados
+### 🔹 Principais Atividades
 
-- Certificação obtida em **6 meses**
-- Redução de **70% nas não conformidades**
-- Cultura de segurança reforçada com treinamentos e engajamento de times
+- ✅ Mapeamento de dados pessoais e sensíveis (LGPD & GDPR)
+- ✅ Criação e implementação de políticas de privacidade
+- ✅ Gestão de riscos específicos de privacidade (ISO 27005)
+- ✅ Controles adicionais para proteção de dados
+- ✅ Condução da auditoria de certificação
 
----
+### 🔹 Impacto e Resultados
 
-## 🛡️ ISO 27701 - Privacidade da Informação
-
-### 🎯 Entregas Estratégicas
-
-- SGPI integrado ao SGSI existente
-- Governança de dados pessoais alinhada à **LGPD** e **GDPR**
-- Controles específicos de privacidade implementados
-- Gestão de riscos baseada na ISO 27005
-- Auditoria de certificação conduzida com sucesso
-
-### 📈 Resultados
-
-- Certificação ISO 27701 conquistada
-- Adequação completa às exigências legais e regulatórias
-- Estrutura preparada para **recertificações conjuntas**
+- 📌 Certificação ISO 27701 conquistada
+- 📌 Fortalecimento da confiança dos clientes
+- 📌 Governança robusta para novas certificações
 
 ---
 
-## 🛠️ Ferramentas e Metodologias
+## 🔧 Tecnologias e Ferramentas Utilizadas
 
-- **Frameworks:** ISO 27001, ISO 27701, ISO 31000, NIST CSF  
-- **Ferramentas:** Microsoft Excel, TopDesk, Power BI, Bizagi  
-- **Metodologias:** Gestão de Riscos, Controles Internos, Auditorias
+- **Frameworks**: ISO 27001, ISO 27701, ISO 31000, NIST CSF  
+- **Ferramentas**: Microsoft Excel, TopDesk, Power BI, Bizagi  
+- **Metodologias**: Gestão de Riscos, Auditorias, Controles Internos
 
 ---
 
 <p align="center">
-  <strong>🚀 Liderança focada em resultados, compliance e inovação segura.</strong><br>
-  <em>Mais sobre a empresa: <a href="https://www.semantix.ai/" target="_blank">www.semantix.ai</a></em>
+  <strong>🟣 Liderança, estratégia e execução com foco em segurança e privacidade.</strong><br>
+  <em>Para mais informações, visite: <a href="https://www.semantix.ai/" target="_blank">www.semantix.ai</a></em>
 </p>
-
